@@ -46,7 +46,7 @@ Desenho dos contornos
 Os contornos detectados são desenhados sobre a imagem original com destaque em azul, criando o resultado final.
 
 ## Resultados
-
+![Imagem Girafa](https://raw.githubusercontent.com/galera33/lab6/main/girafa2.png)
 ![Imagem Girafa](https://raw.githubusercontent.com/galera33/lab6/main/girafa3.png)
 
 
