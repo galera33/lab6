@@ -47,5 +47,6 @@ Os contornos detectados são desenhados sobre a imagem original com destaque em 
 
 ## Resultados
 
+![Imagem Girafa](https://raw.githubusercontent.com/galera33/lab6/main/girafa3.png)
 
 
